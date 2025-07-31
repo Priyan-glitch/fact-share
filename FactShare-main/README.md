@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-This project is built using **React** for the frontend and **Flask** for the backend. It connects to a **MongoDB** database for storing user data and articles. The app uses an **external API** for fake news detection and **OCR (Optical Character Recognition)** to extract text from uploaded news images.
+This project is built using **React** for the frontend and **Flask** for the backend. It connects to a **Oracle** database for storing user data and articles. The app uses an **external API** for fake news detection and **gemini api** to extract text from uploaded news images.
 
 ## How to Use?
 
